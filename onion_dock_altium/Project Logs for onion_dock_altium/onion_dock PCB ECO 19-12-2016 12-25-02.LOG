@@ -1,0 +1,104 @@
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=P1(HDR1X16)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=P2(HDR1X16)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=TXD Pin=onion-27
+Added Pin To Net: NetName=RXD Pin=onion-28
+Added Pin To Net: NetName=VCC_3V3 Pin=onion-31
+Added Pin To Net: NetName=GND Pin=P1-1
+Added Pin To Net: NetName=GND Pin=P2-1
+Added Pin To Net: NetName=VCC_3V3 Pin=P2-2
+Added Pin To Net: NetName=RXD Pin=P2-5
+Added Pin To Net: NetName=TXD Pin=P2-6
+Added Pin To Net: NetName=NET_POW Pin=onion-25
+Added Pin To Net: NetName=NET_POW Pin=P2-8
+Added Net: Name=NET_POW
+Added Pin To Net: NetName=Netonion_2 Pin=onion-2
+Added Pin To Net: NetName=Netonion_2 Pin=P1-2
+Added Net: Name=Netonion_2
+Added Pin To Net: NetName=Netonion_3 Pin=onion-3
+Added Pin To Net: NetName=Netonion_3 Pin=P1-3
+Added Net: Name=Netonion_3
+Added Pin To Net: NetName=Netonion_4 Pin=onion-4
+Added Pin To Net: NetName=Netonion_4 Pin=P1-4
+Added Net: Name=Netonion_4
+Added Pin To Net: NetName=Netonion_5 Pin=onion-5
+Added Pin To Net: NetName=Netonion_5 Pin=P1-5
+Added Net: Name=Netonion_5
+Added Pin To Net: NetName=Netonion_6 Pin=onion-6
+Added Pin To Net: NetName=Netonion_6 Pin=P1-6
+Added Net: Name=Netonion_6
+Added Pin To Net: NetName=Netonion_7 Pin=onion-7
+Added Pin To Net: NetName=Netonion_7 Pin=P1-7
+Added Net: Name=Netonion_7
+Added Pin To Net: NetName=Netonion_8 Pin=onion-8
+Added Pin To Net: NetName=Netonion_8 Pin=P1-8
+Added Net: Name=Netonion_8
+Added Pin To Net: NetName=Netonion_9 Pin=onion-9
+Added Pin To Net: NetName=Netonion_9 Pin=P1-9
+Added Net: Name=Netonion_9
+Added Pin To Net: NetName=Netonion_10 Pin=onion-10
+Added Pin To Net: NetName=Netonion_10 Pin=P1-10
+Added Net: Name=Netonion_10
+Added Pin To Net: NetName=Netonion_11 Pin=onion-11
+Added Pin To Net: NetName=Netonion_11 Pin=P1-11
+Added Net: Name=Netonion_11
+Added Pin To Net: NetName=Netonion_12 Pin=onion-12
+Added Pin To Net: NetName=Netonion_12 Pin=P1-12
+Added Net: Name=Netonion_12
+Added Pin To Net: NetName=Netonion_13 Pin=onion-13
+Added Pin To Net: NetName=Netonion_13 Pin=P1-13
+Added Net: Name=Netonion_13
+Added Pin To Net: NetName=Netonion_14 Pin=onion-14
+Added Pin To Net: NetName=Netonion_14 Pin=P1-14
+Added Net: Name=Netonion_14
+Added Pin To Net: NetName=Netonion_16 Pin=onion-16
+Added Pin To Net: NetName=Netonion_16 Pin=P1-16
+Added Net: Name=Netonion_16
+Added Pin To Net: NetName=Netonion_17 Pin=onion-17
+Added Pin To Net: NetName=Netonion_17 Pin=P2-16
+Added Net: Name=Netonion_17
+Added Pin To Net: NetName=Netonion_18 Pin=onion-18
+Added Pin To Net: NetName=Netonion_18 Pin=P2-15
+Added Net: Name=Netonion_18
+Added Pin To Net: NetName=Netonion_19 Pin=onion-19
+Added Pin To Net: NetName=Netonion_19 Pin=P2-14
+Added Net: Name=Netonion_19
+Added Pin To Net: NetName=Netonion_20 Pin=onion-20
+Added Pin To Net: NetName=Netonion_20 Pin=P2-13
+Added Net: Name=Netonion_20
+Added Pin To Net: NetName=Netonion_21 Pin=onion-21
+Added Pin To Net: NetName=Netonion_21 Pin=P2-12
+Added Net: Name=Netonion_21
+Added Pin To Net: NetName=Netonion_22 Pin=onion-22
+Added Pin To Net: NetName=Netonion_22 Pin=P2-11
+Added Net: Name=Netonion_22
+Added Pin To Net: NetName=Netonion_23 Pin=onion-23
+Added Pin To Net: NetName=Netonion_23 Pin=P2-10
+Added Net: Name=Netonion_23
+Added Pin To Net: NetName=Netonion_24 Pin=onion-24
+Added Pin To Net: NetName=Netonion_24 Pin=P2-9
+Added Net: Name=Netonion_24
+Added Pin To Net: NetName=RESET_BTN Pin=onion-26
+Added Pin To Net: NetName=RESET_BTN Pin=P2-7
+Added Net: Name=RESET_BTN
+Added Pin To Net: NetName=USB+ Pin=onion-30
+Added Pin To Net: NetName=USB+ Pin=P2-3
+Added Net: Name=USB+
+Added Pin To Net: NetName=USB- Pin=onion-29
+Added Pin To Net: NetName=USB- Pin=P2-4
+Added Net: Name=USB-
+Added Member To Class: ClassName=onion_dock Member=Component P1 Header 16
+Added Member To Class: ClassName=onion_dock Member=Component P2 Header 16

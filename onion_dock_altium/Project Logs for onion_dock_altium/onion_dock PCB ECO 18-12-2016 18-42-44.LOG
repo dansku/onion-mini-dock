@@ -1,0 +1,11 @@
+Add component (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "2455674"; VariantName = "[No Variations]"
+Added Component: Designator=VReg1(SOT230P700X180-4N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "2455674"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=VReg1-1
+Added Pin To Net: NetName=VCC_3V3 Pin=VReg1-2
+Added Pin To Net: NetName=VCC_5V Pin=VReg1-3
+Added Pin To Net: NetName=VCC_3V3 Pin=VReg1-4
+Added Member To Class: ClassName=onion_dock Member=Component VReg1 3v3 Voltage Regulator

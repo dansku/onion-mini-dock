@@ -1,0 +1,82 @@
+Add component (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "2491176"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10uF"; VariantName = "[No Variations]"
+Added Component: Designator=C1(C0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "2491176"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "2491176"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10uF"; VariantName = "[No Variations]"
+Added Component: Designator=C2(C0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "2491176"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10uF"; VariantName = "[No Variations]"
+Added Component: Designator=onion(ONION2)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Power"; Value = "0.1W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "9332383"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Added Component: Designator=R1(R0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Power"; Value = "0.1W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "9332383"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0.1W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "9332383"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Added Component: Designator=R2(R0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Power"; Value = "0.1W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "9332383"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "727-CY7C6563428LTXCT"; VariantName = "[No Variations]"
+Added Component: Designator=U1(QFN50P500X500X100_HS-29N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "727-CY7C6563428LTXCT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser"; Value = "http://www.mouser.de/ProductDetail/TE-Connectivity-AMP/292303-1/?qs=sGAEpiMZZMulM8LPOQ%252byk2ChD%2fcRWFzQGYjPa0hd1DM%3d"; VariantName = "[No Variations]"
+Added Component: Designator=USB(MicroUSB)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Mouser"; Value = "http://www.mouser.de/ProductDetail/TE-Connectivity-AMP/292303-1/?qs=sGAEpiMZZMulM8LPOQ%252byk2ChD%2fcRWFzQGYjPa0hd1DM%3d"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C1-2
+Added Pin To Net: NetName=GND Pin=C2-2
+Added Pin To Net: NetName=GND Pin=U1-3
+Added Pin To Net: NetName=GND Pin=U1-29
+Added Pin To Net: NetName=GND Pin=USB-4
+Added Pin To Net: NetName=GND Pin=USB-5
+Added Net: Name=GND
+Added Pin To Net: NetName=NetC1_1 Pin=C1-1
+Added Pin To Net: NetName=NetC1_1 Pin=U1-6
+Added Net: Name=NetC1_1
+Added Pin To Net: NetName=PC_RXD Pin=R2-1
+Added Pin To Net: NetName=PC_RXD Pin=U1-25
+Added Net: Name=PC_RXD
+Added Pin To Net: NetName=PC_TXD Pin=R1-1
+Added Pin To Net: NetName=PC_TXD Pin=U1-26
+Added Net: Name=PC_TXD
+Added Pin To Net: NetName=RXD Pin=R1-2
+Added Net: Name=RXD
+Added Pin To Net: NetName=TXD Pin=R2-2
+Added Net: Name=TXD
+Added Pin To Net: NetName=UD+ Pin=U1-4
+Added Pin To Net: NetName=UD+ Pin=USB-3
+Added Net: Name=UD+
+Added Pin To Net: NetName=UD- Pin=U1-5
+Added Pin To Net: NetName=UD- Pin=USB-2
+Added Net: Name=UD-
+Added Pin To Net: NetName=VCC_5V Pin=C2-1
+Added Pin To Net: NetName=VCC_5V Pin=U1-7
+Added Pin To Net: NetName=VCC_5V Pin=U1-8
+Added Pin To Net: NetName=VCC_5V Pin=U1-9
+Added Pin To Net: NetName=VCC_5V Pin=USB-1
+Added Net: Name=VCC_5V
+Added Class: Name=onion_dock
+Added Room: Name=onion_dock
